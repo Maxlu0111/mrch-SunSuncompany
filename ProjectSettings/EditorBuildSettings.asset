@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Content/Team Infinite/BaseMap 2.unity
+    guid: 7268aa842bf77499aa57ef349007a703
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3e391b066c68f9e46addbf4d79010076, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7b0236f9e93fa7947b8689bd6cebdf57, type: 2}
